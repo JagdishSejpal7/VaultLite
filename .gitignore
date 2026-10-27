@@ -1,0 +1,6 @@
+SELLER_ONLY/
+.buildenv/
+build/
+dist/
+release/
+__pycache__/
